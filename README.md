@@ -1,5 +1,5 @@
 # Data sharing in academia
-In this document, I discuss two articles about Cambridge Analytica's mining of Facebook data and the claims made by some that it altered the course of the 2016 US Presidential Election.  I present and discuss two opposing views on this important matter.
+The two articles I selected both focus on the issue of data sharing in academic fields. The first article speaks more broadly to the majority of all academic fields while the second article focus on the field of genomics. They take on different perspectives on the issue and provoke thoughts about why and how data should be shared in academia.
 
 ## Article 1 - data sharing as beneficial for academica in general
 In the article [_The importance and challenges of data sharing_](https://www.nature.com/articles/s41565-020-0646-0), benefits as well as obstacles regarding data sharing in academic practices are discussed. On one hand, it is important to increase the availability and transparency of data that have been used to draw conclusions in published papers. In fact, good quality databases already exist for fields like DNA sequencing,etc. On the other hand, meaningful and efficient data sharing actually requires a huge amount of effort. Work needs to be done to ensure that shared data are well organized, securely stored and clearly explained.
